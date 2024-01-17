@@ -1,0 +1,305 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+                    <title>
+                    Bootstrap Code Preview
+                    </title>
+                </head>
+                <body>
+                </body>
+                <body>
+                    <div id="component" class="container-fluid py-3">
+                        <div class="position-relative bg-black  row">
+                            <div class="position-absolute col-xxl-7 row align-items-center">
+                                <p class="text-orange fs-1 font-family-Poppins col-md-12 m-0 px-3 py-2">
+                                Virtual BackPack
+                                </p>
+                                <p class="text-center text-secondary fs-1 font-family-Poppins col-md-11 m-0 px-3 py-2">
+                                    For all your course
+                                    <br>
+                                    Materials
+                                    </p>
+                                </div>
+                                <p class="position-absolute text-center text-secondary fs-2 fw-normal font-family-Inter col-xxl-6 m-0 px-3 py-2">
+                                FInd, Download and share materials from your school
+                                </p>
+                                <p class="position-absolute text-secondary fs-3 fw-normal font-family-Poppins col-xxl-6 m-0 px-3 py-2">
+                                See if your School is part of  our community
+                                </p>
+                                <div class="position-absolute col-xxl-7 row">
+                                    <div class="bg-dark rounded-5 col-md-12">
+                                    </div>
+                                    <div class="bg-orange rounded-4 col-md-2">
+                                    </div>
+                                    <p class="text-center text-secondary fs-5 fw-normal font-family-Inter col-md-4 m-0 px-3 py-2">
+                                    Enter your School’s name
+                                    </p>
+                                </div>
+                                <div class="position-absolute bg-dark rounded-5 border border-1 border-dark col-xxl-3 row justify-content-center align-items-center">
+                                    <p class="text-center text-secondary fs-1 fw-normal font-family-Inter col-4 m-0 px-3 py-2">
+                                    200+
+                                    </p>
+                                    <p class="text-center text-secondary fs-1 fw-normal font-family-Inter col-7 m-0 px-3 py-2">
+                                    Schools
+                                    </p>
+                                </div>
+                                <div class="position-absolute col-xxl-10 row">
+                                    <div class="bg-dark rounded-5 border border-1 border-dark col-lg-3 row justify-content-center align-items-center">
+                                        <div class="bg-dark rounded-4 col-4">
+                                        </div>
+                                        <p class="text-center text-success-subtle fs-5 fw-medium font-family-Poppins col-7 m-0 px-3 py-2">
+                                        Free Download
+                                        </p>
+                                        <p class="text-center text-success-subtle fs-6 fw-normal font-family-Poppins col-9 m-0 px-3 py-2">
+                                        Download course materials that you find useful for free!
+                                        </p>
+                                    </div>
+                                    <div class="bg-dark rounded-5 border border-1 border-dark col-lg-3 row justify-content-center align-items-center">
+                                        <div class="bg-dark rounded-4 col-4">
+                                        </div>
+                                        <p class="text-center text-success-subtle fs-5 fw-medium font-family-Poppins col-5 m-0 px-3 py-2">
+                                        File Upload
+                                        </p>
+                                        <p class="text-center text-success-subtle fs-6 fw-normal font-family-Poppins col-9 m-0 px-3 py-2">
+                                        Download course materials that you find useful for free!
+                                        </p>
+                                    </div>
+                                    <div class="bg-orange rounded-5 border border-1 border-dark col-lg-3 row justify-content-center align-items-center">
+                                        <div class="bg-danger rounded-4 col-4">
+                                        </div>
+                                        <p class="text-center text-black fs-5 fw-medium font-family-Poppins col-6 m-0 px-3 py-2">
+                                        Subsciptions
+                                        </p>
+                                        <p class="text-center text-black fs-6 fw-normal font-family-Poppins col-9 m-0 px-3 py-2">
+                                        Download course materials that you find useful for free!
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="position-absolute col-xxl-10 row">
+                                    <div class="px-1 py-1 bg-orange rounded-5 border border-1 border-dark col-lg-3">
+                                        <div class="col-10 row align-items-center d-flex">
+                                            <div class="col-5 row d-flex">
+                                                <div class="bg-danger rounded-4 col-12">
+                                                </div>
+                                            </div>
+                                            <p class="text-center text-black fs-5 fw-medium font-family-Poppins col-9 m-0 px-3 py-2">
+                                            Material Preview
+                                            </p>
+                                            <p class="text-center text-black fs-6 fw-normal font-family-Poppins col-12 m-0 px-3 py-2">
+                                            Previiew course material before downloading to avoid download one material twice
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="px-1 py-1 bg-dark rounded-5 border border-1 border-dark col-lg-3">
+                                        <div class="col-10 row align-items-center d-flex">
+                                            <div class="col-5 row d-flex">
+                                                <div class="bg-dark rounded-4 col-12">
+                                                </div>
+                                            </div>
+                                            <p class="text-center text-secondary fs-5 fw-medium font-family-Poppins col-9 m-0 px-3 py-2">
+                                            personal Library
+                                            </p>
+                                            <p class="text-center text-secondary fs-6 fw-normal font-family-Poppins col-12 m-0 px-3 py-2">
+                                            User can add courses to crates in your personal library and access them anytime!
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="px-1 py-1 bg-dark rounded-5 border border-1 border-dark col-lg-3">
+                                        <div class="col-10 row align-items-center d-flex">
+                                            <div class="col-5 row d-flex">
+                                                <div class="bg-dark rounded-4 col-12">
+                                                </div>
+                                            </div>
+                                            <p class="text-center text-secondary fs-5 fw-medium font-family-Poppins col-12 m-0 px-3 py-2">
+                                            Customized For  you page
+                                            </p>
+                                            <p class="text-center text-secondary fs-6 fw-normal font-family-Poppins col-12 m-0 px-3 py-2">
+                                            You get a page to display only courses you are offering
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="position-absolute bg-orange rounded-5 border border-1 border-dark col-xxl-3 row justify-content-center align-items-center">
+                                    <p class="text-center text-black fs-1 fw-semibold font-family-Inter col-6 m-0 px-3 py-2">
+                                    200k+
+                                    </p>
+                                    <p class="text-center text-black fs-1 fw-semibold font-family-Inter col-8 m-0 px-3 py-2">
+                                    Students
+                                    </p>
+                                </div>
+                                <div class="position-absolute bg-dark rounded-5 border border-1 border-dark col-xxl-3 row justify-content-center align-items-center">
+                                    <p class="text-center text-secondary fs-1 fw-normal font-family-Inter col-4 m-0 px-3 py-2">
+                                    1M+
+                                    </p>
+                                    <p class="text-center text-secondary fs-1 fw-normal font-family-Inter col-8 m-0 px-3 py-2">
+                                    Materials
+                                    </p>
+                                </div>
+                                <p class="position-absolute text-center text-orange fs-1 font-family-Poppins col-xxl-2 m-0 px-3 py-2">
+                                Features
+                                </p>
+                                <p class="position-absolute text-center text-orange fs-1 font-family-Poppins col-xxl-2 m-0 px-3 py-2">
+                                About Us
+                                </p>
+                                <div class="position-absolute bg-orange rounded-5 col-xxl-10 row justify-content-center align-items-center">
+                                    <p class="text-center text-white fs-2 fw-normal font-family-Inter col-xl-3 m-0 px-3 py-2">
+                                    See For Yourself
+                                    </p>
+                                    <div class="col-xl-1 row d-flex">
+                                        <div class="bg-white rounded-circle col-12">
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="position-absolute text-center text-secondary fs-2 fw-normal font-family-Poppins col-xxl-5 m-0 px-3 py-2">
+                                A two man team working as one
+                                </p>
+                                <div class="position-absolute">
+                                    <div class="position-absolute bg-orange rounded-circle col-xl-4">
+                                    </div>
+                                    <div class="left-0 top-0 position-absolute bg-white bg-opacity-50 rounded-5 col-xl-4">
+                                    </div>
+                                    <div class="top-0 position-absolute bg-white bg-opacity-50 rounded-5 col-xl-4">
+                                    </div>
+                                    <div class="top-0 position-absolute bg-white bg-opacity-50 rounded-5 col-xl-4">
+                                    </div>
+                                    <img class="position-absolute rounded-circle col-xl-2" src="https://via.placeholder.com/174x174">
+                                        <img class="position-absolute rounded-circle col-xl-2" src="https://via.placeholder.com/174x174">
+                                            <img class="position-absolute rounded-circle col-xl-2" src="https://via.placeholder.com/174x174">
+                                                <p class="position-absolute text-white fs-3 fw-bold font-family-Poppins col-xl-3 m-0 px-3 py-2">
+                                                ADEMIJUWON IBOJO
+                                                </p>
+                                                <p class="position-absolute text-white fs-3 fw-bold font-family-Poppins col-xl-3 m-0 px-3 py-2">
+                                                OGUCHE MARVELOUS
+                                                </p>
+                                                <p class="position-absolute text-white fs-3 fw-bold font-family-Poppins col-xl-3 m-0 px-3 py-2">
+                                                Emmanuel techbro
+                                                </p>
+                                                <p class="position-absolute text-white fs-6 fw-normal font-family-Inter col-xl-2 m-0 px-3 py-2">
+                                                Backend Developer
+                                                </p>
+                                                <p class="position-absolute text-white fs-6 fw-normal font-family-Inter col-xl-2 m-0 px-3 py-2">
+                                                Frontend Developer
+                                                </p>
+                                                <p class="position-absolute text-white fs-6 fw-normal font-family-Inter col-xl-2 m-0 px-3 py-2">
+                                                Fullstack Developer
+                                                </p>
+                                                <div class="px-1 pb-1 position-absolute col-xl-2 justify-content-center align-items-center">
+                                                    <div class="p-1 col-11">
+                                                        <div class="col-11 row justify-content-end align-items-center">
+                                                            <div class="position-relative">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="px-1 pb-1 position-absolute col-xl-2 justify-content-center align-items-center">
+                                                    <div class="p-1 col-11">
+                                                        <div class="col-11 row justify-content-end align-items-center">
+                                                            <div class="position-relative">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="px-1 pb-1 position-absolute col-xl-2 justify-content-center align-items-center">
+                                                    <div class="p-1 col-11">
+                                                        <div class="col-11 row justify-content-end align-items-center">
+                                                            <div class="position-relative">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="left-0 position-absolute bg-orange col-xxl-12">
+                                            </div>
+                                            <div class="position-absolute col-xxl-9 row align-items-center">
+                                                <p class="text-white fs-6 fw-normal font-family-Poppins col-lg-1 m-0 px-3 py-2">
+                                                CourseCrate
+                                                </p>
+                                                <div class="col-lg-4 row align-items-end d-flex">
+                                                    <div class="col-2 row">
+                                                        <div class="bg-secondary rounded-3 col-7">
+                                                        </div>
+                                                        <p class="text-secondary fs-6 fw-bold font-family-Poppins col-12 m-0 px-3 py-2">
+                                                        Home
+                                                        </p>
+                                                    </div>
+                                                    <p class="text-secondary fs-6 fw-normal font-family-Poppins col-3 m-0 px-3 py-2">
+                                                    Features
+                                                    </p>
+                                                    <p class="text-secondary fs-6 fw-normal font-family-Poppins col-3 m-0 px-3 py-2">
+                                                    About Us
+                                                    </p>
+                                                </div>
+                                                <div class="col-lg-3 row align-items-center d-flex">
+                                                    <p class="text-secondary fs-6 fw-normal font-family-Poppins col-2 m-0 px-3 py-2">
+                                                    Login
+                                                    </p>
+                                                    <div class="p-1 bg-orange rounded-4 col-8 justify-content-center align-items-center d-flex">
+                                                        <p class="text-black fs-6 fw-normal font-family-Poppins col-5 m-0 px-3 py-2">
+                                                        SIGN UP
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="position-absolute col-xxl-10 row align-items-center">
+                                                <p class="text-white fs-5 fw-normal font-family-Poppins col-lg-2 m-0 px-3 py-2">
+                                                CourseCrate
+                                                </p>
+                                                <div class="col-lg-4 row align-items-end d-flex">
+                                                    <div class="col-2">
+                                                        <p class="text-black fs-5 fw-normal font-family-Poppins col-12 m-0 px-3 py-2">
+                                                        Home
+                                                        </p>
+                                                    </div>
+                                                    <p class="text-black fs-5 fw-normal font-family-Poppins col-3 m-0 px-3 py-2">
+                                                    Features
+                                                    </p>
+                                                    <p class="text-black fs-5 fw-normal font-family-Poppins col-3 m-0 px-3 py-2">
+                                                    About Us
+                                                    </p>
+                                                </div>
+                                                <div class="col-lg-3 row align-items-center d-flex">
+                                                    <p class="text-black fs-5 fw-normal font-family-Poppins col-3 m-0 px-3 py-2">
+                                                    Login
+                                                    </p>
+                                                    <div class="p-1 bg-orange rounded-4 col-8 justify-content-center align-items-center d-flex">
+                                                        <p class="text-black fs-5 fw-bold font-family-Poppins col-7 m-0 px-3 py-2">
+                                                        SIGN UP
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="position-absolute text-black fs-3 fw-normal font-family-Poppins col-xxl-3 m-0 px-3 py-2">
+                                            Send Us a message
+                                            </p>
+                                            <div class="position-absolute col-xxl-7 row">
+                                                <div class="bg-dark rounded-5 col-md-12">
+                                                </div>
+                                                <p class="text-center text-secondary fs-5 fw-normal font-family-Inter col-md-2 m-0 px-3 py-2">
+                                                Your Email
+                                                </p>
+                                            </div>
+                                            <div class="position-absolute col-xxl-7 row">
+                                                <div class="bg-dark rounded-5 col-md-12">
+                                                </div>
+                                                <p class="text-center text-secondary fs-5 fw-normal font-family-Inter col-md-3 m-0 px-3 py-2">
+                                                Enter your message
+                                                </p>
+                                            </div>
+                                            <div class="position-absolute">
+                                                <div class="left-0 top-0 position-absolute bg-black rounded-4 shadow col-md-12">
+                                                </div>
+                                                <p class="position-absolute text-center text-white fs-3 fw-normal font-family-Inter col-md-3 m-0 px-3 py-2">
+                                                Send Message
+                                                </p>
+                                            </div>
+                                            <div class="opacity-100 position-absolute">
+                                            </div>
+                                            <p class="position-absolute opacity-100 text-white fs-5 fw-bold font-family-Poppins col-xxl-2 m-0 px-3 py-2">
+                                            Copyright 2023
+                                            </p>
+                                        </div>
+                                    </div>
+                                </body>
+                            </html>
